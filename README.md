@@ -18,7 +18,7 @@
   - Kotlin
   - Swift
   - C#
-  - C++ (Just to see where we came from though. I might spend some more time on this,
+  - C++ (Just to see where we came from. I might spend more time on this,
           if I feel the need or want to get nostalgic. 🤣)
   - Other languages & tools I use:
 
