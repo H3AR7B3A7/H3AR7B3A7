@@ -61,7 +61,7 @@
 <br>
 <br>
 
-### 📕 Latest books I have been destroying:
+### 📕 Some books I have been destroying lately:
 
 - Beginning programming with C++ for dummies - Stephen R. Davis
 - Learning Python - Mark Lutz
