@@ -4,6 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developersteven)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/steven.d.powers.3)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven.d.hondt.sdh@gmail.com)
+<br>
+[![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge)](mailto:steven.d.hondt.sdh@gmail.com)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge)](mailto:steven.d.hondt.sdh@gmail.com)
 
 ### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
