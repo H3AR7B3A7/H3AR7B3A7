@@ -88,3 +88,5 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/developersteven)
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />](https://www.facebook.com/steven.d.powers.3)
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mail-dot-ru.svg" />](mailto:steven.d.hondt.sdh@gmail.com)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftteams.svg" />](https://teams.microsoft.com/join/0djomfom3f3n)
+[<img align="left" alt="Mail" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/zoom_black_logo_icon_147040.png" />](https://us05web.zoom.us/j/4965508526?pwd=Z1FjMWk1L3J0cElzQXhYQ04xY2R4QT09)
