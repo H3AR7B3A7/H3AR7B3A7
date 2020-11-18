@@ -64,7 +64,7 @@
 - [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
 - [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
 - [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
-- Some smaller projects like games: [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake), [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
+- Some smaller projects, like games: [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake), [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
 
 ### 📕 Some books I have been destroying lately:
 
