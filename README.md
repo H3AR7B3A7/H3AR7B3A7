@@ -12,7 +12,7 @@
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0032479318743)
 
 
-### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
+### I'm a lifetime student of everything that is interesting, a developer and problemsolver!
 
 - 💪 I'm passionate about application development and do not discriminate on platform:  
         mobile / web / desktop / ...
