@@ -14,7 +14,8 @@
 
 ### I'm a lifetime student of everything that is interesting, a developer and passionate problemsolver!
 
-- 💪 I'm into application development and do not discriminate on platform: mobile / web / desktop / ...
+- 💪 I'm passionate about application development and do not discriminate on platform:  
+        mobile / web / desktop / ...
 - 🌱 I’m currently learning ... well, everything:
 
   - Java
