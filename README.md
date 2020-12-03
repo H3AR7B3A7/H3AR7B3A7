@@ -82,6 +82,9 @@
 - Spring 5.0 Cookbook - Sherwin John Calleja Tragura
 
 ### 📊 Latest GitHub activity:
+- 🌐 Created some example web application hosted on Heroku:
+     - With Ruby on Rails: [here](https://efriends.herokuapp.com/)
+     - With Python Django: [here](https://exampledjango.herokuapp.com/)
 - 🎓 Created a lot of repositories to learn about different subjects:
     <details style="padding-left: 1rem;">
       <summary>Some examples</summary>
