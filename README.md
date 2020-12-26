@@ -21,11 +21,9 @@
   - Java
   - Spring
   - Vanilla JS
-  - Node JS
-  - Angular / React / Vue
+  - React (, Angular & Vue)
   - Kotlin
-  - Swift
-  - C#
+  - Some other language interests: Python,  C# & Swift
   - C++ (Just to see where we came from. I might spend more time on this,
           if I feel the need or want to get nostalgic. 🤣)
   - Other languages & tools I use:
@@ -56,14 +54,15 @@
 <br>
 <br>
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 Always looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
 
 ### 🏗️ Recent projects
 - [Chess Clock for Android in Kotlin with UI testing](https://github.com/H3AR7B3A7/ChessClock)
+- [On screen RNG with JavaFX for streamers and giveaways](https://github.com/H3AR7B3A7/RNGesus)
 - [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
 - [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
 - [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
@@ -72,6 +71,7 @@
 
 ### 📕 Some books I have been destroying lately:
 
+- Thinking in Java - Bruce Eckel
 - Beginning programming with C++ for dummies - Stephen R. Davis
 - Learning Python - Mark Lutz
 - Domain Driven Design - Eric Evans
@@ -82,9 +82,8 @@
 - Spring 5.0 Cookbook - Sherwin John Calleja Tragura
 
 ### 📊 Latest GitHub activity:
-- 🌐 Created some example web application hosted on Heroku:
-     - With Ruby on Rails: [here](https://efriends.herokuapp.com/)
-     - With Python Django: [here](https://exampledjango.herokuapp.com/)
+- 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
+- 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
 - 🎓 Created a lot of repositories to learn about different subjects:
     <details style="padding-left: 1rem;">
       <summary>Some examples</summary>
@@ -99,9 +98,10 @@
      - ...
  
     </details>
-
-- 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
-- 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
+    
+- 🌐 Created some example web application hosted on Heroku:
+     - With Ruby on Rails: [here](https://efriends.herokuapp.com/)
+     - With Python Django: [here](https://exampledjango.herokuapp.com/)
 
 ### Connect with me:
 
