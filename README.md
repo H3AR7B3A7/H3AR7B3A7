@@ -90,7 +90,7 @@
 - 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
 - 📝 Creating and sharing documentation on different subjects:
     <details style="padding-left: 1rem;">
-      <summary>Some examples</summary>
+      <summary>Click here for examples.</summary>
   
      - Java Certification [CertificationPractice](https://github.com/H3AR7B3A7/CertificationPractice)
      - Java Design Patterns [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
@@ -101,7 +101,7 @@
     
 - 🎓 Created a lot of repositories to learn about different subjects:
     <details style="padding-left: 1rem;">
-      <summary>Some examples</summary>
+      <summary>Click here for examples.</summary>
   
      - Angular: [EarlyAngularProjects](https://github.com/H3AR7B3A7/EarlyAngularProjects)
      - React: [EarlyReactProjects](https://github.com/H3AR7B3A7/EarlyReactProjects)
