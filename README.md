@@ -88,14 +88,27 @@
 ### 📊 Latest GitHub activity:
 - 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
 - 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
+- 📝 Creating and sharing documentation on different subjects:
+    <details style="padding-left: 1rem;">
+      <summary>Some examples</summary>
+  
+     - Java Certification [CertificationPractice](https://github.com/H3AR7B3A7/CertificationPractice)
+     - Java Design Patterns [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
+     - Docker & Kubernetes [DockerAndKubernetes](https://github.com/H3AR7B3A7/DockerAndKubernetes)
+     - Windows Terminal & Powershell [WindowsTerminalAndPowershell](https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell)
+ 
+    </details>
+    
 - 🎓 Created a lot of repositories to learn about different subjects:
     <details style="padding-left: 1rem;">
       <summary>Some examples</summary>
   
-     - OOP: [CardDeck](https://github.com/H3AR7B3A7/CardDeck)
+     - Angular: [EarlyAngularProjects](https://github.com/H3AR7B3A7/EarlyAngularProjects)
+     - React: [EarlyReactProjects](https://github.com/H3AR7B3A7/EarlyReactProjects)
      - Spring web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
      - Spring security, Angular front-end & more: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
      - Spring boot: [TjEnterprise-pet-store](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
+     - OOP: [CardDeck](https://github.com/H3AR7B3A7/CardDeck)
      - Jupyter Lab & Notebooks: [ExploringJupyterLab](https://github.com/H3AR7B3A7/ExploringJupyterLab)
      - Vanilla Javascript: [JSProjects](https://github.com/H3AR7B3A7/JSProjects)
      - PyGame: [SpaceInvaders](https://github.com/H3AR7B3A7/SpaceInvaders)
