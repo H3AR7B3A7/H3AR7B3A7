@@ -21,7 +21,7 @@
   - Java
   - Spring
   - Vanilla JS
-  - React (, Angular & Vue)
+  - React & Angular
   - Kotlin
   - Some other language interests: Python,  C# & Swift
   - C++ (Just to see where we came from. I might spend more time on this,
