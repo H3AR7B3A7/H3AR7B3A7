@@ -29,11 +29,10 @@
   - Other languages & tools I use:
 
 <p align="center">
-<img alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Visual_Studio_2013_Logo.svg/500px-Visual_Studio_2013_Logo.svg.png" />
-<img alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img alt="Visual Studio" width="30px" src="https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B#/media/File:Visual_Studio_Icon_2019.svg" />
+<img alt="Visual Studio Code" width="30px" src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" />
 <img alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img alt="Python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1387/1387537.svg" />
 <img alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" />
 <img alt="MathLab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img alt="AndroidStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Androidstudio.png/600px-Androidstudio.png" />
