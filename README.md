@@ -29,8 +29,8 @@
   - Other languages & tools I use:
 
 <p align="center">
-<img alt="Visual Studio" width="30px" src="https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B#/media/File:Visual_Studio_Icon_2019.svg" />
-<img alt="Visual Studio Code" width="30px" src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" />
+<img alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
+<img alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" />
