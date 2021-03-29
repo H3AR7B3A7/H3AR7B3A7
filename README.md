@@ -60,6 +60,7 @@
 ---
 
 ### 🏗️ Recent projects
+- Commercial Driving School Software: new Spring-Vue project (Private repo)
 - [Chess Clock for Android in Kotlin with UI testing](https://github.com/H3AR7B3A7/ChessClock)
 - [On screen RNG with JavaFX for streamers and giveaways](https://github.com/H3AR7B3A7/RNGesus)
 - [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
@@ -70,19 +71,20 @@
 
 ### 📕 Some books I have been destroying lately:
 
-- OCP Study Guide - J. Boyarsky, S. Selikoff (EXAM 1Z0-815, 1Z0-16 & 1Z0-817)
-- Learning Angular 3d ed. - A. Bampakos , P. Deeleman
+- Java coding problems - L. Anghel
+- Effective Java - J. Bloch
+- OCP Study Guide - J. Boyarsky, S. Selikoff (EXAM 1Z0-815, 1Z0-816 & 1Z0-817)
 - Spring 5.0 Cookbook - S. John C. Tragura
 - Java Design Patterns - Vaskaran Sarcar
 - Pro Spring 5 - L. Cosmina, R. Harrop, C. Schaefer, C. Ho
 - Spring Boot in Action - C. Walls
 - Thinking in Java - B. Eckel
+- Domain Driven Design - E. Evans
 - Clean Code - R.C. Martin
 - Agile Project Management for dummies - Mark C. Layton, Steven J. Ostermiller
 - Scrum for dummies - M. C. Layton, D. Morrow
-- Domain Driven Design - E. Evans
 - Beginning programming with C++ for dummies - S. R. Davis
-- Learning Python - M. Lutz
+- Learning Angular 3d ed. - A. Bampakos , P. Deeleman
 
 ### 📊 Latest GitHub activity:
 - 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
