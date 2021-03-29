@@ -117,9 +117,14 @@
  
     </details>
     
-- 🌐 Created some example web application hosted on Heroku:
+- 🌐 Created some example web application hosted on Heroku (only in first half of the month):
+    <details style="padding-left: 1rem;">
+      <summary>Click here for examples.</summary>
+        
      - With Ruby on Rails: [here](https://efriends.herokuapp.com/)
      - With Python Django: [here](https://exampledjango.herokuapp.com/)
+     
+    </details>
 
 ### Connect with me:
 
