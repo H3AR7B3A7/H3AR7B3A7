@@ -16,13 +16,13 @@
 
 - 💪 I'm passionate about application development and do not discriminate on platform:  
         mobile / web / desktop / ...
-- 🌱 I’m currently learning ... well, everything:
+- 🌱 I’m currently learning about ... well, a lot:
 
   - Java
+  - Kotlin
   - Spring
   - Vanilla JS
   - React & Angular
-  - Kotlin
   - Some other language interests: Python,  C# & Swift
   - C++ (Just to see where we came from. I might spend more time on this,
           if I feel the need or want to get nostalgic. 🤣)
