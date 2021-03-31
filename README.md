@@ -16,7 +16,7 @@
 
 - 💪 I'm passionate about application development and do not discriminate on platform:  
         mobile / web / desktop / ...
-- 🌱 I’m currently learning about ... well, a lot:
+- 🌱 Currently specializing myself in:
 
   - Java
   - Kotlin
