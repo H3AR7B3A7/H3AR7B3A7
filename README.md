@@ -88,7 +88,7 @@
 
 ### 📊 Latest GitHub activity:
 - 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
-- 💪 Fixed the 'Translation Editor' in a project that wouldn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
+- 💪 Fixed the 'Translation Editor' that didn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
 - 📝 Creating and sharing documentation on different subjects:
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
@@ -98,6 +98,7 @@
      - Java Design Patterns [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
      - Docker & Kubernetes [DockerAndKubernetes](https://github.com/H3AR7B3A7/DockerAndKubernetes)
      - Windows Terminal & Powershell [WindowsTerminalAndPowershell](https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell)
+     - Linux Terminal & Bash [LinuxTerminalAndBash](https://github.com/H3AR7B3A7/LinuxTerminalAndBash)
  
     </details>
     
@@ -119,7 +120,7 @@
  
     </details>
     
-- 🌐 Created some example web application hosted on Heroku (only in first half of the month):
+- 🌐 Created some example web application hosted on Heroku (only available first half of the month):
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
         
