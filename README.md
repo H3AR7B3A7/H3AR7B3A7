@@ -93,12 +93,12 @@
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
   
-     - Best Practices [BestPractices](https://github.com/H3AR7B3A7/BestPractices)
-     - Java Certification [CertificationPractice](https://github.com/H3AR7B3A7/CertificationPractice)
-     - Java Design Patterns [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
-     - Docker & Kubernetes [DockerAndKubernetes](https://github.com/H3AR7B3A7/DockerAndKubernetes)
-     - Windows Terminal & Powershell [WindowsTerminalAndPowershell](https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell)
-     - Linux Terminal & Bash [LinuxTerminalAndBash](https://github.com/H3AR7B3A7/LinuxTerminalAndBash)
+     - Best Practices: [BestPractices](https://github.com/H3AR7B3A7/BestPractices)
+     - Java Certification: [CertificationPractice](https://github.com/H3AR7B3A7/CertificationPractice)
+     - Java Design Patterns: [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
+     - Docker & Kubernetes: [DockerAndKubernetes](https://github.com/H3AR7B3A7/DockerAndKubernetes)
+     - Windows Terminal & Powershell: [WindowsTerminalAndPowershell](https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell)
+     - Linux Terminal & Bash: [LinuxTerminalAndBash](https://github.com/H3AR7B3A7/LinuxTerminalAndBash)
  
     </details>
     
