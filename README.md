@@ -21,11 +21,9 @@
   - Java
   - Kotlin
   - Spring
-  - Vanilla JS
-  - React & Angular
-  - Some other language interests: Python,  C# & Swift
-  - C++ (Just to see where we came from. I might spend more time on this,
-          if I feel the need or want to get nostalgic. 🤣)
+  - Vanilla JS / Typescript
+  - Angular, React & Vue
+  - Some minor other language interests: Python, C++ (C# & Swift)
   - Other languages & tools I use:
 
 <p align="center">
@@ -55,12 +53,15 @@
 
 - 👯 Always looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun facts: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
+- ⚡ More about me: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
 
 ### 🏗️ Recent projects
-- Commercial Driving School Software: new Spring-Vue project (Private repo)
+- Hospital VOIP Solutions (NUCLeUS): a Java Spring - Angular stack (Private Repo)
+- Driving School Management Software (PointHR): a Java Spring - Vue stack (Private Repo)
+- TodoList Application: a Java Spring - Angular stack (Private Repo)
+- [ContactManagerBackend](https://github.com/H3AR7B3A7/ContactManagerBackend) / [ContactManagerFrontEnd](https://github.com/H3AR7B3A7/EarlyAngularProjects/tree/master/contacts)
 - [Chess Clock for Android in Kotlin with UI testing](https://github.com/H3AR7B3A7/ChessClock)
 - [On screen RNG with JavaFX for streamers and giveaways](https://github.com/H3AR7B3A7/RNGesus)
 - [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
@@ -106,8 +107,12 @@
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
   
+     - CSS: [EarlyStylingProjects](https://github.com/H3AR7B3A7/EarlyStylingProjects)
+     - Various Libraries/Technologies: [ExploringSomeTechnologies](https://github.com/H3AR7B3A7/ExploringSomeTechnologies)
      - Angular: [EarlyAngularProjects](https://github.com/H3AR7B3A7/EarlyAngularProjects)
      - React: [EarlyReactProjects](https://github.com/H3AR7B3A7/EarlyReactProjects)
+     - Vue: [EarlyVueProjects](https://github.com/H3AR7B3A7/EarlyVueProjects)
+     - GWT: [EarlyGwtProjects](https://github.com/H3AR7B3A7/EarlyGwtProjects)
      - Spring web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
      - Spring security, Angular front-end & more: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
      - Spring boot: [TjEnterprise-pet-store](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
