@@ -107,15 +107,15 @@
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
   
+     - Spring Boot: [MoreSpringCourses](https://github.com/H3AR7B3A7/MoreSpringCourses)
      - CSS: [EarlyStylingProjects](https://github.com/H3AR7B3A7/EarlyStylingProjects)
      - Various Libraries/Technologies: [ExploringSomeTechnologies](https://github.com/H3AR7B3A7/ExploringSomeTechnologies)
      - Angular: [EarlyAngularProjects](https://github.com/H3AR7B3A7/EarlyAngularProjects)
      - React: [EarlyReactProjects](https://github.com/H3AR7B3A7/EarlyReactProjects)
      - Vue: [EarlyVueProjects](https://github.com/H3AR7B3A7/EarlyVueProjects)
      - GWT: [EarlyGwtProjects](https://github.com/H3AR7B3A7/EarlyGwtProjects)
-     - Spring web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
+     - Spring Web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
      - Spring security, Angular front-end & more: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
-     - Spring boot: [TjEnterprise-pet-store](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
      - OOP: [CardDeck](https://github.com/H3AR7B3A7/CardDeck)
      - Jupyter Lab & Notebooks: [ExploringJupyterLab](https://github.com/H3AR7B3A7/ExploringJupyterLab)
      - Vanilla Javascript: [JSProjects](https://github.com/H3AR7B3A7/JSProjects)
@@ -129,8 +129,9 @@
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
         
-     - With Ruby on Rails: [here](https://efriends.herokuapp.com/)
-     - With Python Django: [here](https://exampledjango.herokuapp.com/)
+     - Conference CRUD service, using Java & Spring Boot: [here](https://conf-spring.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)
+     - Contact list app, using Ruby on Rails: [here](https://efriends.herokuapp.com/)
+     - Product manager app, using Python & Django: [here](https://exampledjango.herokuapp.com/)
      
     </details>
 
