@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Steven - aka <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4"> H3AR7B3A7 <img width="20px" src="https://avatars0.githubusercontent.com/u/48164405?s=460&u=8df27165ef4844a868619d36976d785150b39d27&v=4">
-<span align="right">
+<span style="float: right">
 <a href="https://stackoverflow.com/users/12348584/h3ar7b3a7"><img src="https://stackoverflow.com/users/flair/12348584.png?theme=dark" width="208" height="58" alt="profile for H3AR7B3A7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for H3AR7B3A7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </span>
 </h1>
