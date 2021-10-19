@@ -1,4 +1,4 @@
-<p alight="right>
+<p align="right">
 <a href="https://stackoverflow.com/users/12348584/h3ar7b3a7"><img src="https://stackoverflow.com/users/flair/12348584.png?theme=dark" width="208" height="58" alt="profile for H3AR7B3A7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for H3AR7B3A7 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
