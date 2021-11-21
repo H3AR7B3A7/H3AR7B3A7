@@ -44,6 +44,7 @@
 <img alt="Docker" width="30px" src="https://nl-wiki.ikoula.com/images/7/7a/Docker_log.png" />
 <img alt="Git" width="30px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />
 <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Atlassian" width="30px" src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:89e146b4-642e-41fc-8e65-7848337d7bdd/Atlassian-icon-blue-onecolor@2x.png" />
 <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="PostMan" width="30px" src="https://www.migenius.com/migenius/wp-content/uploads/2016/06/postman-logo@2x-540x540.png" />
 <img alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
