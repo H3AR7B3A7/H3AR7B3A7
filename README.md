@@ -62,6 +62,7 @@
 ---
 
 ### 🏗️ Recent projects
+- Small examples on my [StackBlitz Account](https://stackblitz.com/@H3AR7B3A7) to explain some concepts to people on StackOverflow
 - Hospital VOIP Solutions (NUCLeUS): a Java Spring - Angular stack (Private Repo)
 - Driving School Management Software (PointHR): a Java Spring - Vue stack (Private Repo)
 - TodoList Application: a Java Spring - Angular stack (Private Repo)
