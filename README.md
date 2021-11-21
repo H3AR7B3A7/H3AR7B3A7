@@ -51,6 +51,7 @@
 <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
 <img alt="Gimp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" />
+<img alt="Obsidian" width="30px" src="https://papierlos-studieren.net/wp-content/uploads/2020/08/logo-fat-discord-666x525.png" />
 </p>
 <br>
 <br>
