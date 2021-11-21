@@ -35,22 +35,22 @@
 <img alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" />
 <img alt="MathLab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img alt="AndroidStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Androidstudio.png/600px-Androidstudio.png" />
 <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="SQL" width="30px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
-<img alt="PostMan" width="30px" src="https://www.migenius.com/migenius/wp-content/uploads/2016/06/postman-logo@2x-540x540.png" />
 <img alt="MongoDB" width="30px" src="https://assets.website-files.com/5fdb8852b1531503a9855d4b/605cc71df349230845450111_MONGO.png" />
 <img alt="Docker" width="30px" src="https://nl-wiki.ikoula.com/images/7/7a/Docker_log.png" />
 <img alt="Git" width="30px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />
 <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="PostMan" width="30px" src="https://www.migenius.com/migenius/wp-content/uploads/2016/06/postman-logo@2x-540x540.png" />
 <img alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
 <img alt="Gimp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" />
 <img alt="Obsidian" width="30px" src="https://papierlos-studieren.net/wp-content/uploads/2020/08/logo-fat-discord-666x525.png" />
+<img alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/44px-Jupyter_logo.svg.png" />
 </p>
 <br>
 <br>
