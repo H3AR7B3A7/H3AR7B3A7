@@ -57,12 +57,16 @@
 <br>
 
 - 👯 Always looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals:
+        - Look for more people to collaborate with & contribute to open source projects more often
+        - Expand my skillset with new technologies / frameworks / libraries / ...
+        - Document and teach others what I've learned
 - ⚡ More about me: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
 
 ### 🏗️ Recent projects
+- [Chrome Extension](https://github.com/H3AR7B3A7/ChromeExtension)
 - Small examples on my [StackBlitz Account](https://stackblitz.com/@H3AR7B3A7) to explain some concepts to people on StackOverflow
 - Hospital VOIP Solutions (NUCLeUS): a Java Spring - Angular stack (Private Repo)
 - Driving School Management Software (PointHR): a Java Spring - Vue stack (Private Repo)
@@ -73,7 +77,8 @@
 - [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
 - [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
 - [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
-- Some smaller projects, like games: [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake), [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
+- [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake)
+- [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
 - [My profile page](https://github.com/H3AR7B3A7/ProfilePage)
 
 ### 📕 Some books I have been destroying lately:
