@@ -58,9 +58,9 @@
 
 - 👯 Always looking to collaborate with other developers
 - 🥅 2022 Goals:
-        - Look for more people to collaborate with & contribute to open source projects more often
-        - Expand my skillset with new technologies / frameworks / libraries / ...
-        - Document and teach others what I've learned
+  - Look for more people to collaborate with & contribute to open source projects more often
+  - Expand my skillset with new technologies / frameworks / libraries / ...
+  - Document and teach others what I've learned
 - ⚡ More about me: I love to draw ✏️, make delicious food 🍴, read 📕 and be around water ( swimming 🏊 / sailing ⛵ / ... )
 
 ---
