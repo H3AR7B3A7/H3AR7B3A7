@@ -83,6 +83,7 @@
 
 ### 📕 Some books I have been destroying lately:
 
+- The User Experience Team of One - Leah Buley
 - Java coding problems - L. Anghel
 - Effective Java - J. Bloch
 - OCP Study Guide - J. Boyarsky, S. Selikoff (EXAM 1Z0-815, 1Z0-816 & 1Z0-817)
