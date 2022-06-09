@@ -65,88 +65,126 @@
 
 ---
 
-### 🏗️ Recent projects
-- [Chrome Extension](https://github.com/H3AR7B3A7/ChromeExtension)
-- Small examples on my [StackBlitz Account](https://stackblitz.com/@H3AR7B3A7) to explain some concepts to people on StackOverflow
-- Hospital VOIP Solutions (NUCLeUS): a Java Spring - Angular stack (Private Repo)
-- Driving School Management Software (PointHR): a Java Spring - Vue stack (Private Repo)
-- TodoList Application: a Java Spring - Angular stack (Private Repo)
-- [ContactManagerBackend](https://github.com/H3AR7B3A7/ContactManagerBackend) / [ContactManagerFrontEnd](https://github.com/H3AR7B3A7/EarlyAngularProjects/tree/master/contacts)
-- [Chess Clock for Android in Kotlin with UI testing](https://github.com/H3AR7B3A7/ChessClock)
-- [On screen RNG with JavaFX for streamers and giveaways](https://github.com/H3AR7B3A7/RNGesus)
-- [Pet store webshop with Spring boot connected to SQL database](https://github.com/H3AR7B3A7/TjEnterprise-pet-store)
-- [Spring boot web service tracking corona data from a CSV](https://github.com/H3AR7B3A7/CoronaTracker)
-- [Android app showing comic art locations on a Google map in Java](https://github.com/H3AR7B3A7/EndTermAndroidProject)
-- [Snake in Java](https://github.com/H3AR7B3A7/JavaSnake)
-- [Space Invaders in Python](https://github.com/H3AR7B3A7/SpaceInvaders)
-- [My profile page](https://github.com/H3AR7B3A7/ProfilePage)
+<details>
+  <summary><h3>🏗️ Recent projects</h3></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/ChromeExtension">Chrome Extension</a>
+    </li>
+    <li>
+      Small examples on my <a href="https://stackblitz.com/@H3AR7B3A7">StackBlitz Account</a> to explain some concepts to people on StackOverflow
+    </li>
+    <li>
+      Hospital VOIP Solutions (NUCLeUS): a Java Spring - Angular stack (Private Repo)
+    </li>
+    <li>
+      Driving School Management Software (PointHR): a Java Spring - Vue stack (Private Repo)
+    </li>
+    <li>
+      TodoList Application: a Java Spring - Angular stack (Private Repo)
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/ContactManagerBackend">ContactManagerBackend</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/ChessClock">Chess Clock for Android in Kotlin with UI testing</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/RNGesus">On screen RNG with JavaFX for streamers and giveaways</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/TjEnterprise-pet-store">Pet store webshop with Spring boot connected to SQL database</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/CoronaTracker">Spring boot web service tracking corona data from a CSV</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/EndTermAndroidProject">Android app showing comic art locations on a Google map in Java</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/JavaSnake">Snake in Java</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/SpaceInvaders">Space Invaders in Python</a>
+    </li>
+    <li>
+      <a href="https://github.com/H3AR7B3A7/ProfilePage">My profile page</a>
+    </li>
+  </ul>
+</details>
 
-### 📕 Some books I have been destroying lately:
+<details>
+  <summary><h3>📕 Some books I have been destroying lately</h3></summary>
+  <ul>
+    <li>The User Experience Team of One - Leah Buley</li>
+    <li>Java coding problems - L. Anghel</li>
+    <li>Effective Java - J. Bloch</li>
+    <li>OCP Study Guide - J. Boyarsky, S. Selikoff (EXAM 1Z0-815, 1Z0-816 & 1Z0-817)</li>
+    <li>Spring 5.0 Cookbook - S. John C. Tragura</li>
+    <li>Java Design Patterns - Vaskaran Sarcar</li>
+    <li>Pro Spring 5 - L. Cosmina, R. Harrop, C. Schaefer, C. Ho</li>
+    <li>Spring Boot in Action - C. Walls</li>
+    <li>Thinking in Java - B. Eckel</li>
+    <li>Domain Driven Design - E. Evans</li>
+    <li>Clean Code - R.C. Martin</li>
+    <li>Agile Project Management for dummies - Mark C. Layton, Steven J. Ostermiller</li>
+    <li>Scrum for dummies - M. C. Layton, D. Morrow</li>
+    <li>Beginning programming with C++ for dummies - S. R. Davis</li>
+    <li>Learning Angular 3d ed. - A. Bampakos , P. Deeleman</li>
+  </ul>
+</details>
 
-- The User Experience Team of One - Leah Buley
-- Java coding problems - L. Anghel
-- Effective Java - J. Bloch
-- OCP Study Guide - J. Boyarsky, S. Selikoff (EXAM 1Z0-815, 1Z0-816 & 1Z0-817)
-- Spring 5.0 Cookbook - S. John C. Tragura
-- Java Design Patterns - Vaskaran Sarcar
-- Pro Spring 5 - L. Cosmina, R. Harrop, C. Schaefer, C. Ho
-- Spring Boot in Action - C. Walls
-- Thinking in Java - B. Eckel
-- Domain Driven Design - E. Evans
-- Clean Code - R.C. Martin
-- Agile Project Management for dummies - Mark C. Layton, Steven J. Ostermiller
-- Scrum for dummies - M. C. Layton, D. Morrow
-- Beginning programming with C++ for dummies - S. R. Davis
-- Learning Angular 3d ed. - A. Bampakos , P. Deeleman
-
-### 📊 Latest GitHub activity:
-- 💪 Fixed 3 bugs [#27](https://github.com/Mrjsaw/ChessClock/pull/27) in [Mrjsaw/ChessClock](https://github.com/Mrjsaw/ChessClock)
-- 💪 Fixed the 'Translation Editor' that didn't work because of faulty file structure [#146](https://github.com/sylvek/itracing2/pull/146) in [sylvek/itracing2](https://github.com/sylvek/itracing2)
-- 📝 Creating and sharing documentation on different subjects:
+<details>
+  <summary><h3>📊 Latest GitHub activity</h3></summary>
+  <ul>
+          <li>💪 Fixed 3 bugs <a href="https://github.com/Mrjsaw/ChessClock/pull/27">#27</a> in <a href="https://github.com/Mrjsaw/ChessClock">Mrjsaw/ChessClock</a></li>
+    <li>💪 Fixed the 'Translation Editor' that didn't work because of faulty file structure <a href="https://github.com/sylvek/itracing2/pull/146">#146</a> in <a href="https://github.com/sylvek/itracing2">sylvek/itracing2</a></li>
+    <li>📝 Creating and sharing documentation on different subjects:</li>
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
-  
-     - Aggregating Notes in Obsidian: [SecondBrain](https://github.com/H3AR7B3A7/SecondBrain)
-     - Best Practices: [BestPractices](https://github.com/H3AR7B3A7/BestPractices)
-     - Java Certification: [CertificationPractice](https://github.com/H3AR7B3A7/CertificationPractice)
-     - Java Design Patterns: [DesignPatterns](https://github.com/H3AR7B3A7/DesignPatterns)
-     - Docker & Kubernetes: [DockerAndKubernetes](https://github.com/H3AR7B3A7/DockerAndKubernetes)
-     - Windows Terminal & Powershell: [WindowsTerminalAndPowershell](https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell)
-     - Linux Terminal & Bash: [LinuxTerminalAndBash](https://github.com/H3AR7B3A7/LinuxTerminalAndBash)
- 
+      <ul>
+        <li>Aggregating Notes in Obsidian: <a href="https://github.com/H3AR7B3A7/SecondBrain">SecondBrain</a></li>
+        <li>Best Practices: <a href="https://github.com/H3AR7B3A7/BestPractices">BestPractices</a></li>
+        <li>Java Certification: <a href="https://github.com/H3AR7B3A7/CertificationPractice">CertificationPractice</a></li>
+        <li>Java Design Patterns: <a href="https://github.com/H3AR7B3A7/DesignPatterns">DesignPatterns</a></li>
+        <li>Docker & Kubernetes: <a href="https://github.com/H3AR7B3A7/DockerAndKubernetes">DockerAndKubernetes</a></li>
+        <li>Windows Terminal & Powershell: <a href="https://github.com/H3AR7B3A7/WindowsTerminalAndPowershell">WindowsTerminalAndPowershell</a></li>
+        <li>Linux Terminal & Bash: <a href="https://github.com/H3AR7B3A7/LinuxTerminalAndBash">LinuxTerminalAndBash</a></li>
+      </ul>
     </details>
-    
-- 🎓 Created a lot of repositories to learn about different subjects:
+    <li>🎓 Created a lot of repositories to learn about different subjects:</li>
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
-  
-     - Spring Boot: [MoreSpringCourses](https://github.com/H3AR7B3A7/MoreSpringCourses)
-     - CSS: [EarlyStylingProjects](https://github.com/H3AR7B3A7/EarlyStylingProjects)
-     - Various Libraries/Technologies: [ExploringSomeTechnologies](https://github.com/H3AR7B3A7/ExploringSomeTechnologies)
-     - Angular: [EarlyAngularProjects](https://github.com/H3AR7B3A7/EarlyAngularProjects)
-     - React: [EarlyReactProjects](https://github.com/H3AR7B3A7/EarlyReactProjects)
-     - Vue: [EarlyVueProjects](https://github.com/H3AR7B3A7/EarlyVueProjects)
-     - GWT: [EarlyGwtProjects](https://github.com/H3AR7B3A7/EarlyGwtProjects)
-     - Spring Web: [SpringMVC](https://github.com/H3AR7B3A7/SpringMVC), [SpringServletStackXml](https://github.com/H3AR7B3A7/SpringServletStackXml) & [SpringServletStackCode](https://github.com/H3AR7B3A7/SpringServletStackCode)
-     - Spring security, Angular front-end & more: [SpringCourses](https://github.com/H3AR7B3A7/SpringCourses)
-     - OOP: [CardDeck](https://github.com/H3AR7B3A7/CardDeck)
-     - Jupyter Lab & Notebooks: [ExploringJupyterLab](https://github.com/H3AR7B3A7/ExploringJupyterLab)
-     - Vanilla Javascript: [JSProjects](https://github.com/H3AR7B3A7/JSProjects)
-     - PyGame: [SpaceInvaders](https://github.com/H3AR7B3A7/SpaceInvaders)
-     - Java I/O: [AutomatedPitchMailer](https://github.com/H3AR7B3A7/AutomatedPitchMailer)
-     - ...
- 
+      <ul>
+        <li>Spring Boot: <a href="https://github.com/H3AR7B3A7/MoreSpringCourses">MoreSpringCourses</a></li>
+        <li>CSS: <a href="https://github.com/H3AR7B3A7/EarlyStylingProjects">EarlyStylingProjects</a></li>
+        <li>Various Libraries/Technologies: <a href="https://github.com/H3AR7B3A7/ExploringSomeTechnologies">ExploringSomeTechnologies</a></li>
+        <li>Angular: <a href="https://github.com/H3AR7B3A7/EarlyAngularProjects">EarlyAngularProjects</a></li>
+        <li>React: <a href="https://github.com/H3AR7B3A7/EarlyReactProjects">EarlyReactProjects</a></li>
+        <li>Vue: <a href="https://github.com/H3AR7B3A7/EarlyVueProjects">EarlyVueProjects</a></li>
+        <li>GWT: <a href="https://github.com/H3AR7B3A7/EarlyGwtProjects">EarlyGwtProjects</a></li>
+        <li>Spring Web: <a href="https://github.com/H3AR7B3A7/SpringMVC">SpringMVC</a>, <a href="https://github.com/H3AR7B3A7/SpringServletStackXml">SpringServletStackXml</a> & <a href="https://github.com/H3AR7B3A7/SpringServletStackCode">SpringServletStackCode</a></li>
+        <li>Spring security, Angular front-end & more: <a href="https://github.com/H3AR7B3A7/SpringCourses">SpringCourses</a></li>
+        <li>OOP: <a href="https://github.com/H3AR7B3A7/CardDeck">CardDeck</a></li>
+        <li>Jupyter Lab & Notebooks: <a href="https://github.com/H3AR7B3A7/ExploringJupyterLab">ExploringJupyterLab</a></li>
+        <li>Vanilla Javascript: <a href="https://github.com/H3AR7B3A7/JSProjects">JSProjects</a></li>
+        <li>PyGame: <a href="https://github.com/H3AR7B3A7/SpaceInvaders">SpaceInvaders</a></li>
+        <li>Java I/O: <a href="https://github.com/H3AR7B3A7/AutomatedPitchMailer">AutomatedPitchMailer</a></li>
+        <li>...</li>
+      </ul>
     </details>
-    
-- 🌐 Created some example web application hosted on Heroku (only available first half of the month):
+    <li>🌐 Created some example web application hosted on Heroku (only available first half of the month):</li>
     <details style="padding-left: 1rem;">
       <summary>Click here for examples.</summary>
-        
-     - Conference CRUD service, using Java & Spring Boot: [here](https://conf-spring.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)
-     - Contact list app, using Ruby on Rails: [here](https://efriends.herokuapp.com/)
-     - Product manager app, using Python & Django: [here](https://exampledjango.herokuapp.com/)
-     
+      <ul>
+        <li>Conference CRUD service, using Java & Spring Boot: <a href="https://conf-spring.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config">here</a></li>
+        <li>Contact list app, using Ruby on Rails: <a href="https://efriends.herokuapp.com/">here</a></li>
+        <li>Product manager app, using Python & Django: <a href="https://exampledjango.herokuapp.com/">here</a></li>
+      </ul>
     </details>
+  </ul>
+</details>
+
 
 ### Connect with me:
 
