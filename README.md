@@ -26,8 +26,12 @@
   - Kotlin
   - Spring
   - Vanilla JS / Typescript
-  - Angular, React & Vue
-  - Some minor other language interests: Python, C++ (C# & Swift)
+  - Angular
+  - Other interests
+    - React
+    - Vue
+    - Python
+    - Bash / PowerShell
   - Other languages & tools I use:
 
 <p align="center">
