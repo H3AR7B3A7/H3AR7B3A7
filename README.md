@@ -189,6 +189,7 @@
   </ul>
 </details>
 
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=h3ar7b3a7&theme=github_dark&show_icons=true&hide_border=true)
 
 ### Connect with me:
 
