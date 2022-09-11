@@ -144,7 +144,7 @@
 <details>
   <summary><h3>📊 Latest GitHub activity</h3></summary>
   <ul>
-    <li>Minor update to documentation <a href="https://github.com/chromaui/learnstorybook.com/pull/639">#639</a> in <a href="https://github.com/chromaui/learnstorybook.com">chromaui/learnstorybook.com</a></li>
+    <li>📝 Minor update to documentation <a href="https://github.com/chromaui/learnstorybook.com/pull/639">#639</a> in <a href="https://github.com/chromaui/learnstorybook.com">chromaui/learnstorybook.com</a></li>
     <li>💪 Fixed 3 bugs <a href="https://github.com/Mrjsaw/ChessClock/pull/27">#27</a> in <a href="https://github.com/Mrjsaw/ChessClock">Mrjsaw/ChessClock</a></li>
     <li>💪 Fixed the 'Translation Editor' that didn't work because of faulty file structure <a href="https://github.com/sylvek/itracing2/pull/146">#146</a> in <a href="https://github.com/sylvek/itracing2">sylvek/itracing2</a></li>
     <li>📝 Creating and sharing documentation on different subjects:</li>
