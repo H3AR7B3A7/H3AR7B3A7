@@ -43,6 +43,7 @@
 <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Storybook" width="30px" src="https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png" />
 <img alt="SQL" width="20px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />
 <img alt="MongoDB" width="35px" src="https://assets.website-files.com/5fdb8852b1531503a9855d4b/605cc71df349230845450111_MONGO.png" />
 <img alt="Linux" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
