@@ -73,6 +73,9 @@
   <summary><h3>🏗️ Recent projects</h3></summary>
   <ul>
     <li>
+      <a href="https://github.com/H3AR7B3A7/Toolbox">Toolbox</a> - An example in Angular front-end & Spring back-end project best practices (WIP).
+    </li>
+    <li>
       <a href="https://github.com/H3AR7B3A7/ChromeExtension">Chrome Extension</a>
     </li>
     <li>
@@ -141,7 +144,8 @@
 <details>
   <summary><h3>📊 Latest GitHub activity</h3></summary>
   <ul>
-          <li>💪 Fixed 3 bugs <a href="https://github.com/Mrjsaw/ChessClock/pull/27">#27</a> in <a href="https://github.com/Mrjsaw/ChessClock">Mrjsaw/ChessClock</a></li>
+    <li>Minor update to documentation <a href="https://github.com/chromaui/learnstorybook.com/pull/639">#639</a> in <a href="https://github.com/chromaui/learnstorybook.com">chromaui/learnstorybook.com</a></li>
+    <li>💪 Fixed 3 bugs <a href="https://github.com/Mrjsaw/ChessClock/pull/27">#27</a> in <a href="https://github.com/Mrjsaw/ChessClock">Mrjsaw/ChessClock</a></li>
     <li>💪 Fixed the 'Translation Editor' that didn't work because of faulty file structure <a href="https://github.com/sylvek/itracing2/pull/146">#146</a> in <a href="https://github.com/sylvek/itracing2">sylvek/itracing2</a></li>
     <li>📝 Creating and sharing documentation on different subjects:</li>
     <details style="padding-left: 1rem;">
